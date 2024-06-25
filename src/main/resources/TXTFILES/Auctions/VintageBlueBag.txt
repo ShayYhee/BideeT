@@ -1,0 +1,5 @@
+ID, NAME, STARTPRICE, BUYER, CURRENTBID
+12,  Vintage Blue Bag,  4000, Jessie, 14000.0
+12,  Vintage Blue Bag,  4000, Osebi 30000.0
+12,  Vintage Blue Bag,  4000, SahRaHh, 16000.0
+12,  Vintage Blue Bag,  4000, Osebi, 35000.0

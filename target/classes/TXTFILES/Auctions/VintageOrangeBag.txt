@@ -1,0 +1,4 @@
+ID, NAME, STARTPRICE, BUYER, CURRENTBID
+13,  Vintage Orange Bag,  5000, SahRaHh, 16000.0
+13,  Vintage Orange Bag,  5000, Osebi, 13000.0
+13,  Vintage Orange Bag,  5000, SahRaHh, 27000.0

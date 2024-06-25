@@ -1,0 +1,6 @@
+Id, Name, Brand, Year, StartPrice
+11, Vintage Black Bag, oSayBee, 2022, 3950
+12, Vintage Blue Bag, oSayBee, 2022, 4000
+13, Vintage Orange Bag, oSayBee, 2022, 5000
+14, Protein 5l, Mayor, 2023, 2000
+15, Protein Strawberry Shake 2l, Mayor, 2023, 2500

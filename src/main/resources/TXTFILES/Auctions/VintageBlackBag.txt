@@ -1,0 +1,6 @@
+ID, NAME, STARTPRICE, BUYER, CURRENTBID
+11,  Vintage Black Bag,  3950, Osebi, 13000.0
+11,  Vintage Black Bag,  3950, Jessie, 27000.0
+11,  Vintage Black Bag,  3950, Jessie, 30000.0
+11,  Vintage Black Bag,  3950, Antong, 45000.0
+11,  Vintage Black Bag,  3950, osebi, 45700.0

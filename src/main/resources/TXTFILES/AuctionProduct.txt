@@ -1,0 +1,17 @@
+ID, NAME, STARTPRICE, BUYER, CURRENT BID
+11,  Vintage Black Bag,  3950, Osebi, 13000.0
+12,  Vintage Blue Bag,  4000, Jessie, 14000.0
+13,  Vintage Orange Bag,  5000, SahRaHh, 16000.0
+14,  Protein 5l,  2000, Jessie, 3000.0
+15,  Protein Strawberry Shake 2l,  2500, Osebi, 5000.0
+11,  Vintage Black Bag,  3950, SahRaHh, 25000.0
+12,  Vintage Blue Bag,  4000, Osebi, 30000.0
+11,  Vintage Black Bag,  3950, Jessie, 27000.0
+11,  Vintage Black Bag,  3950, Jessie, 30000.0
+12,  Vintage Blue Bag,  4000, SahRaHh, 16000.0
+12,  Vintage Blue Bag,  4000, Osebi, 35000.0
+13,  Vintage Orange Bag,  5000, Osebi, 13000.0
+13,  Vintage Orange Bag,  5000, SahRaHh, 27000.0
+14,  Protein 5l,  2000, Osebi, 5000.0
+11,  Vintage Black Bag,  3950, Antong, 45000.0
+11,  Vintage Black Bag,  3950, osebi, 45700.0

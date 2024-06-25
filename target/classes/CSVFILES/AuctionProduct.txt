@@ -1,0 +1,3 @@
+"ProductId","ProductName","StartPrice","CurrentBid","WinningBid","Date"
+"1","Mayor Protein",12999.00,60000.00,12.00,"15/02/23"
+"2","Sarah humans",1000000.00,250000.00,12.00,"25/02/23"

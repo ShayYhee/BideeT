@@ -1,0 +1,8 @@
+ID, Name, Username, Email, Password
+8, Faith Solomon, Osebi, faithosebi01@gmail.com, osebi1
+9, Jessica Solomon, Jessie, jessiesolo01@gmail.com, jessie1
+10, Ruth Solomon, Ruthie, ruth333@gmail.com, ruth1
+11, Sarah Sunday, SahRaHh, zaukasarah@gmail.com, sarah1
+12, Jandrov, Jandrov, jand@gmail.com, jand1
+14, Fjaid, osebi1, faithoseniui@gamil.com, osss1
+15, Ayomide Oyekanmi, Ayoye, ayoye@gmail.com, ayoye

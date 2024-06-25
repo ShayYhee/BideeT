@@ -1,0 +1,2 @@
+ID, NAME, STARTPRICE, BUYER, CURRENTBID
+15,  Protein Strawberry Shake 2l,  2500, Osebi, 5000.0
